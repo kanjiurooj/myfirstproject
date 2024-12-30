@@ -1,2 +1,3 @@
 # myfirstproject
-It is my first project on github
+It is my first git reprository.
+Author-Urooj
